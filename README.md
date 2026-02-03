@@ -843,3 +843,5 @@ The IndicTrans code (and models) are released under the MIT License.
 ## Acknowledgements
 
 We would like to thank EkStep Foundation for their generous grant which helped in setting up the Centre for AI4Bharat at IIT Madras to support our students, research staff, data and computational requirements. We would like to thank The Ministry of Electronics and Information Technology (NLTM) for its grant to support the creation of datasets and models for Indian languages under its ambitions Bhashini project. We would also like to thank the Centre for Development of Advanced Computing, India (C-DAC) for providing access to the Param Siddhi supercomputer for training our models. Lastly, we would like to thank Microsoft for its grant to create datasets, tools and resources for Indian languages.
+
+- [AgentMarket](https://agentmarket.cloud) - Real energy data API for AI agents. 28M+ records. 
